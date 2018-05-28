@@ -1,5 +1,7 @@
 Python client for Barchart OnDemand Changelog
 ---------------------------------------------
+- 0.0.7 - drop Cython, python 3.4 and python 3.5 support
+
 - 0.0.6 - make getFinancialHighlights optional
   * update dependencies
   * make getFinancialHighlights optional
