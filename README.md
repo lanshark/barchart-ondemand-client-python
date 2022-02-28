@@ -1,5 +1,6 @@
 ## Python client for Barchart OnDemand
 
+NOTE: this project is deprecated now that Barchart OnDemand has an official Python API.
 
 Get a free API key at:
 
